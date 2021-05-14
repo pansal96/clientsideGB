@@ -66,7 +66,7 @@ function onSaveComplete(response, status) {
 		$("#alertError").show();
 	}
 
-	$("#hidfbIDSave").val("");
+	$("#hidIDSave").val("");
 	$("#formFeedback")[0].reset();
 
 }
